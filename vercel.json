@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+  
+    { "source": "/bybaelcollection.tk:", "destination": "bybaelcollection.000webhostapp.com/" },
+       ]
+}
