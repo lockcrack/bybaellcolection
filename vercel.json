@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/:match*", "destination": "/https://bybaelcollection.000webhostapp.com/:match*" }
+    { "source": "/:match*", "destination": "https://bybaelcollection.000webhostapp.com/:match*" }
 
   ]
 }
