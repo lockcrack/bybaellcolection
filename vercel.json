@@ -1,7 +1,7 @@
 {
   "rewrites": [
-        { "source": "/", "destination": "https://bybaelcollection.000webhostapp.com/" },
-    { "source": "/:match*", "destination": "https://bybaelcollection.000webhostapp.com/:match*" }
+        { "source": "/", "destination": "https://bybaelcollection.zyrosite.com/" },
+    { "source": "/:match*", "destination": "https://bybaelcollection.zyrosite.com/:match*" }
 
   ]
 }
